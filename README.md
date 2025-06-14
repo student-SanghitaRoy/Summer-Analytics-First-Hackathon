@@ -64,12 +64,3 @@ ID,class
 2,Grass
 3,Farm
 ...
-
-📜 Honor Code
-
-I affirm that this project is my original work and complies with all academic and competition guidelines.  
-I have not copied or misused any external code without attribution. This submission is solely for learning purposes.
-
-Submitted by : Sanghita Roy
-
-Program : Summer Analytics 2025
